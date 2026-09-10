@@ -9,6 +9,8 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+mvn.sh
+.m2
 
 # General
 bin/
@@ -17,6 +19,7 @@ tmp/
 *.bak
 *.swp
 *~.nib
+bak/
 
 # Eclipse
 .metadata
